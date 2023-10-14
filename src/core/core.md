@@ -1,0 +1,1 @@
+#Pasta onde vão ficar as funções fundamentais da aplicação, que integram as informações solicitadas com as funções.

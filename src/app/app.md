@@ -1,0 +1,1 @@
+#Pasta onde vão ficar as informações de configuração, versão da aplicação e interface das solicitações ao usuário.
