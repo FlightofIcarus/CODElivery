@@ -16,9 +16,9 @@ function nthRoot(j, n) {
     }
 
     if (j < 0) {
-        return -Math.pow(-j, 1/n);
+        return -Math.pow(-j, 1/n).toFixed(2);
     } else {
-        return Math.pow(j, 1/n);
+        return Math.pow(j, 1/n).toFixed(2);
     }
 }
 
