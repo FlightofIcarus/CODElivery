@@ -8,3 +8,5 @@ const b = 9;
 const c = 2;
 const delta = calcularDelta(a, b, c);
 console.log("O valor de delta é: " + delta);
+
+module.exports = delta;
